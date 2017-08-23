@@ -1,0 +1,12 @@
+<?php 
+Configure::write("Requester.email_note", "Test data goes here ");
+Configure::write("Requester.email_note_1", "Test data goes here ");
+Configure::write("Site.Copyright_text", "&copy; Copyright all rights reserved, Service Deal 2013");
+Configure::write("Site.email", "admin@admin.com");
+Configure::write("Site.facebook_url", "http://facebook.com");
+Configure::write("Site.linkedIn_url", "www.linkedin.com");
+Configure::write("Site.title", "Service Deal");
+Configure::write("Site.twitter_url", "https://twitter.com/");
+Configure::write("Site.youtube_url", "www.youtube.com");
+Configure::write("Supplier.email_note", "Test data goes here ");
+Configure::write("Supplier.email_note_1", "Test data goes here ");
